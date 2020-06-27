@@ -44,4 +44,4 @@ Observações:
 
 A saída deste exemplo será:
 
-![](URL da imagem)
+![Output](https://github.com/Farllon/cTableConstructor/blob/master/output.PNG)
