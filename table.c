@@ -1,4 +1,5 @@
 #include "table.h"
+#include <stdio.h>
 
 int len(char * word) {
     int i, cont = 0;
