@@ -6,22 +6,7 @@ Adicione os arquivos table.c e table.h na pasta do seu projeto, e no seu arquivo
 
 Para a criação da tabela, crie um arquivo txt na pasta do seu projeto. Seu arquivo vai depender do tamanho da sua tabela. Os itens tem de ser secritos um em cada linha e o programa irá lê-los do primeiro para o último. Por exemplo, uma tabela com 5 linhas e 3 colunas ficará assim:
 
-A
-B
-C
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-
+![txt](https://github.com/Farllon/cTableConstructor/blob/master/text.PNG)
 
 Como minha tabela terá 3 colunas, as três primeiras linhas serão a cabeçalho da tabela e o resto são os dados. Obs: O cabeçalho também é contado como linha da tabela. Lembre-se também de deixar a ultima linha do arquivo em branco para que o algorítimo funcione bem.
 
